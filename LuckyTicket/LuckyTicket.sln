@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyTicket", "LuckyTicket\LuckyTicket.csproj", "{0FCB7119-CC16-4D27-817C-9F0E2314B55E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FCB7119-CC16-4D27-817C-9F0E2314B55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCB7119-CC16-4D27-817C-9F0E2314B55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCB7119-CC16-4D27-817C-9F0E2314B55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCB7119-CC16-4D27-817C-9F0E2314B55E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B524944-FBF0-4253-A21B-3C5826E635D4}
+	EndGlobalSection
+EndGlobal
